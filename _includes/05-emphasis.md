@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I am an Economics and Environmental, Sustainability, and policy major and minoring in Data Analytics and Mathmatics. 
