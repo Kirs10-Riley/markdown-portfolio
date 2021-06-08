@@ -1,0 +1,5 @@
+- [ ] dogs
+- [ ] reading
+- [ ] running 
+- [ ] cooking 
+- [ ] shopping
